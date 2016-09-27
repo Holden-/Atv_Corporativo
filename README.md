@@ -4,6 +4,8 @@ Corp
 [![Heroku](https://heroku-badge.herokuapp.com/?app=atividade-corporativo&root=index.jsf)](https://atividade-corporativo.herokuapp.com)
 [![Build Status](https://travis-ci.org/Holden-/Atv_Corporativo.svg?branch=master)](https://travis-ci.org/Holden-/Atv_Corporativo)
 
+[![Coverage Status](https://heroku-badge.herokuapp.com/?app=atividade-corporativo&root=index.jsf)]
+
 ainda nao mudei
 [![Coverage Status](https://coveralls.io/repos/github/persapiens/conta/badge.svg?branch=master)](https://coveralls.io/github/persapiens/conta?branch=master)
 [![Dependency Status](https://www.versioneye.com/user/projects/573c95dace8d0e00360bcee6/badge.svg?style=flat)](https://www.versioneye.com/user/projects/573c95dace8d0e00360bcee6)
