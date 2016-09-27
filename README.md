@@ -1,7 +1,5 @@
 Corp
 =====
-
-funciona
 [![Heroku]https://heroku-badge.herokuapp.com/?app=Atividade-corporativo&root=task.jsf)](https://dashboard.heroku.com/apps/atividade-corporativo)
 [![Build Status](https://travis-ci.org/Holden-/Atv_Corporativo.svg?branch=master)](https://travis-ci.org/Holden-/Atv_Corporativo)
 
